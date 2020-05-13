@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="forchashConnectionString-Web.config Connection String" description="forchashConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=DESKTOP-JJ67CI8\SQLEXPRESS;Initial Catalog=forchash;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Akshay\\source\\repos\\WebApplication1\\WebApplication1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='forchashConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
